@@ -1,0 +1,2 @@
+# niconamaI2I
+ニコ生のコメントをトリガーにimg2imgするツール
