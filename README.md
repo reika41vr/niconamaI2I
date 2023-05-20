@@ -1,9 +1,9 @@
 # niconamaImg2Img
-ニコ生のコメントをトリガーにimg2imgするツール
+ニコ生のコメントをトリガーにStable Diffusionでimg2imgするツール
 
 
 ## 概要
-以下のコマンドで実行します。必要なライブラリは適宜入れてください。  
+以下のコマンドで実行します。必要なライブラリは適宜入れてください。Diffusersなどが必要です。  
 python niconamai2i.py  
   
   
